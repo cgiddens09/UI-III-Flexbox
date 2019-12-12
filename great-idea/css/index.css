@@ -64,3 +64,101 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
+
+
+.nav{
+	display: flex;
+	justify-content: space-evenly;
+	width: 100%;
+	margin-left: 2%;
+}
+
+a{
+	padding: 2%;
+	text-decoration:none;
+	color: gray;
+	width: 12%;
+}
+
+h1{
+	font-size: 70px;
+	text-align: center;
+}
+.header{
+	display:flex;
+	align-items: flex-start;
+	justify-content:space-between;
+	width: 55%;
+}
+
+.first{
+	display: flex;
+	width: 55%;
+	margin-top: 2%;
+	margin-left: 3%;
+	padding: 1%;
+	justify-content: space-between;
+}
+
+.innov{
+	margin-left: 8%;
+	padding-top: 7%;
+}
+
+.started{
+	display: flex;
+	flex-direction: row;
+	width: 150px;
+	border: 1px solid black;
+	padding: 4px;
+	margin-left: 25%;
+	justify-content: center;
+}
+
+.chunk{
+	display:flex;
+	width:55%;
+	margin-left: 3%;
+	
+}
+
+.second{
+	display:flex;
+	flex-direction: column;
+	width: 50%;
+	
+}
+
+.second2{
+	display:flex;
+	flex-direction: column;
+	width: 50%;
+}
+
+.rectangle{
+	margin-left: 3%
+}
+
+.chunk2{
+	display:flex;
+	width:57%;
+	margin-left: 3%;
+	margin-top: 2%;
+	justify-content: space-between;
+}
+
+.third{
+	width:40%;
+	display:flex;
+	flex-direction: column;
+	padding-right: 2%;
+	align-content: space-between;
+}
+
+.copyright{
+	margin-left: 25%;
+}
+
+.contact{
+	margin-left: 3%;
+}
