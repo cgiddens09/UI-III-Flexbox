@@ -162,3 +162,99 @@ h1{
 .contact{
 	margin-left: 3%;
 }
+
+/* SERVICES PAGE STARTS HERE*/
+
+.electronics{
+	
+	margin-top: 2%;
+	margin-bottom: 2%;
+
+}
+
+.header2{
+	display:flex;
+	align-items: flex-start;
+	justify-content:space-between;
+	width: 880px;;
+}
+.second3{
+	display:flex;
+	width: 880px;
+	margin-bottom: 3%;
+	flex-wrap: wrap;
+}
+
+.middle{
+	display:flex;
+	width: 880px;
+	margin-top: 2%;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+.box{
+	padding: 3%;	
+	background-color: #d1cfcf;
+	border: 1px solid black;
+	width: 50%;
+	margin: 2% 2% 5% 0;
+	
+	
+}
+
+.learn{
+	display: flex;
+	border-radius: 4px;
+	width: 100px;
+	border: 1px solid black;
+	padding: 4px;
+	margin-left: 2%;
+	justify-content: center;
+	margin-top:6%
+}
+
+.test{
+	display:flex;
+}
+
+.box2{
+	padding: 3%;	
+	background-color: #d1cfcf;
+	border: 1px solid black;
+	width: 50%;
+	margin: 2% 0 5% 2%;
+	padding-right: 2%;	
+}
+.footer{
+	display:flex;
+	width: 880px;
+	margin-top: 4%;
+	margin-bottom: 8%;
+}
+.facts{
+	display:flex;
+	flex-wrap: wrap;
+	padding-right: 4%;
+}
+.lady{
+	display:flex;
+	padding-left: 0%
+}
+body{
+	width: 800px;
+	margin:2% 22%;
+}
+
+hr{
+	width: 880px;
+}
+
+ul{
+	list-style-type: unset;
+	list-style-position: inside;
+}
+
+.copyright2{
+	margin-left: 40%;
+}
